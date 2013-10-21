@@ -1,0 +1,11 @@
+{
+	"http_proxy": "10.251.36.230:8002",
+	"installed_packages":
+	[
+		"Package Control"
+	],
+	"repositories":
+	[
+		"https://github.com/squ1b3r/Djaneiro"
+	]
+}

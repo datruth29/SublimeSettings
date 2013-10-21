@@ -1,0 +1,15 @@
+{
+	"font_face": "Consolas",
+	"font_size": 10,
+	"ignored_packages":
+	[
+	],
+	"rulers":
+	[
+		99
+	],
+	"translate_tabs_to_spaces": true,
+	"vintage_ctrl_keys": true,
+	"vintage_start_in_command_mode": true,
+	"wrap_width": 100
+}
