@@ -1,0 +1,10 @@
+{
+    "anaconda_linter_mark_style": "outline",
+     "autoformat_select":
+    [
+        "E225",
+        "E302",
+        "E231",
+        "E501"
+    ]
+}
